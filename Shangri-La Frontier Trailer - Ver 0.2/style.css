@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(16, 16, 16);
+}
+
+.cwrap {
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 0px;
+    margin: 10px;
+}
+
+img {
+    max-width: 13rem;
+    height: auto;
+}
+
+iframe {
+    max-width: 13rem;
+    height: auto;
+    aspect-ratio: 16/9;
+}
